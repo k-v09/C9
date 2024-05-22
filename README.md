@@ -28,5 +28,5 @@ If you have any questions, please reach out to me via:
 - Email: noah.sehman@gmail.com
 
 ## Demonstration
-Here is a demonstration of the project
-https://drive.google.com/file/d/1-Hs5QdCkmg3jBa-1KVdEKlk8lM2Cfsqe/view
+Here is a demonstration of the project:
+- https://drive.google.com/file/d/1-Hs5QdCkmg3jBa-1KVdEKlk8lM2Cfsqe/view
